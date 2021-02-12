@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of the implemented calculator:
 
-![](https://i.imgur.com/LHOmPiP.gif)
+![](https://i.imgur.com/E1akBLK.gif)
 
 
 ## Notes
